@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 24-spring-boot-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ACER
+Implementation-Vendor-Id: com.mogul
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/24-spring-bo
+ ot-jpa/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
