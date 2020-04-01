@@ -9,15 +9,6 @@
 	<groupId>com.mogul</groupId>
 	<artifactId>24-spring-boot-jpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
-
-
-
-
-
-
-
-
 	<properties>
 		<java.version>1.7</java.version>
 		<thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>
